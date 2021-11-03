@@ -1,0 +1,18 @@
+.table-part thead tr th{
+	color: white;
+	padding: 20px;
+}
+.table-part tbody tr td{
+	color: white;
+	padding: 20px;
+}
+.table-part thead tr{
+	border: 1px solid white;
+}
+.table-part tbody td{
+	border: 1px solid white;
+}
+.adbtn{
+	float: right;
+	margin-top: 10px;
+}
